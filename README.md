@@ -6,7 +6,7 @@ Submitted by: **Hemanta Lawaju**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://github.com/hlawaju63/test-project-1/)
 
 ## Required Functionality
 
@@ -22,7 +22,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
@@ -60,7 +60,7 @@ i had to google about markdown languague and learn to submit the demonstration v
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Hemanta Lawaju]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
